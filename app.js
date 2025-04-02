@@ -1,4 +1,4 @@
-const firebaseURL = 'https://console.firebase.google.com/project/yegor-coffee-survery/database/yegor-coffee-survery-default-rtdb/data/~2F'; // Replace with your Firebase project URL
+const firebaseURL = 'https://yegor-coffee-survery-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase project URL
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
